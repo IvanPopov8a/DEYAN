@@ -6,6 +6,6 @@ int main()
         printf("\n %c -> %d", c,c);
     }
     printf("LOW TAPER FADE NIGGA");
-
+    printf("LOW TAPER FADE OSAMA");
     return 0;
 }
